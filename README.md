@@ -1,2 +1,2 @@
 # linux-shell
-A basic implementation of the linux shell in C.
+Implementation of Linux Shell in C
